@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Mohammed Binsahl
-![Alt text](![image](https://github.com/user-attachments/assets/d8ba4774-354d-4df6-bba3-d0973c1f4a9c)
-)
+
 ### **Full-Stack Web Developer** | Next.js • React • SPFx • Express.js  
 📍 **Cairo, Egypt** | ✉️ [mohammed.binsahl@remotecoders.org](mailto:mohammed.binsahl@remotecoders.org)  
 🔗 [Portfolio](https://mo.binsahl.com) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
